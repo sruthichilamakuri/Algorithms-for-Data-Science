@@ -1,1 +1,1 @@
-# Algorithms-for-Data-Science
+This repository contains course work that is part of COMPSCI 514 curriculum
