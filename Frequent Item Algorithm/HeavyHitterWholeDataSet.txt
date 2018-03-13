@@ -1,0 +1,131 @@
+Total number of hashtags in stream: 2728005
+Number of hashtags present in dictionary: 118
+Number of items with frequency greater than 0.002000: 4
+
+List of frequent hashtags:
+
+#teamiphone
+#teampsg
+#team
+#teamfollowback
+
+Hashtags and their frequencies:
+
+#teamiphone: 12944
+#teamfollowback: 12372
+#team: 9097
+#teampsg: 7114
+#teamsingle: 4934
+#jobs: 3647
+#ggmu: 2960
+#job: 2627
+#tweetmyjobs: 1872
+#directioner: 1747
+#31minutos: 1296
+#job:: 959
+#1: 916
+#vi\u00f1a2013: 899
+#instagram: 628
+#internship: 507
+#teamlacrim: 481
+#followback: 276
+#np: 150
+#teambooba: 147
+#spikersmarchwish: 142
+#meteoalarm: 141
+#luachat: 61
+#marchwish: 36
+#teambreezy: 29
+#teambbm: 27
+#like2: 20
+#coupon: 20
+#kidrauhloldmemories: 12
+#team243: 11
+#teamrohff: 8
+#tbt: 7
+#teammuslim: 6
+#belieber: 5
+#nairobisc: 3
+#mixer: 3
+#nrj: 2
+#mtsufollowtrain: 2
+#love_tweet: 2
+#galatasaray: 2
+#e3imachloe: 2
+#20: 2
+#wvdo\u201d: 1
+#writing: 1
+#watts: 1
+#volteam: 1
+#urmston: 1
+#und16: 1
+#torerogang: 1
+#teamtaken3.12.12: 1
+#teamspoiled: 1
+#teamsoultone: 1
+#teams&wgirls: 1
+#teammaroc: 1
+#teamludovico: 1
+#teamlightskin: 1
+#teamhairflip: 1
+#teamechangiste: 1
+#teamdanielforever: 1
+#teamdancehall: 1
+#team1m64: 1
+#swiftie: 1
+#staystrong: 1
+#standup: 1
+#soccerislife.: 1
+#sneakybounce: 1
+#smfamily: 1
+#siouxnation: 1
+#scorpio\u264f: 1
+#ratedpgtips: 1
+#rarodeella: 1
+#prouddirectioner: 1
+#posey: 1
+#pdrg: 1
+#partyanimal: 1
+#onthatcollegegrind: 1
+#nowplaying: 1
+#nialler: 1
+#mtsu: 1
+#movie43: 1
+#mexican: 1
+#maketheworldmove: 1
+#longhairnevercared.: 1
+#libriana: 1
+#kodotxgrizzled: 1
+#jenietoutsuisella: 1
+#jdcjdr: 1
+#itsmyfriday: 1
+#inlovewithme: 1
+#ibnux: 1
+#hipstamatic: 1
+#hilariousday: 1
+#hijadelrey: 1
+#halamadrid: 1
+#gritlit: 1
+#gameday: 1
+#future: 1
+#followme: 1
+#fatbitch: 1
+#entrepreneur: 1
+#englishmajor: 1
+#eastcoastswag: 1
+#dancer: 1
+#cristiana: 1
+#coffeewolf: 1
+#cna: 1
+#chocolate: 1
+#cancer: 1
+#bolivar: 1
+#bangouts: 1
+#ausurpadora: 1
+#armin: 1
+#allmusic: 1
+#a\u015fkbanagelirse: 1
+#\u0639\u062a\u0642_\u0631\u0642\u0628\u0629_\u0641\u0636\u0627\u0621_\u0627\u0644\u0633\u0628\u064a\u0639\u064a: 1
+#801: 1
+#66: 1
+#21: 1
