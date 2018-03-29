@@ -1,0 +1,19 @@
+MapReduceArray contains MapReduce algorithms to take in a large file of integers and produce as output:
+
+(a) The largest integer 
+(b) The average of all the integers 
+(c) The same set of integers, but with each integer appearing only once 
+(d) The count of the number of distinct integers in the input 
+
+Data: 'testdata.npy' that contains artificially generated integers
+
+MapReduceGraph contains MapReduce algorithms to compute:
+
+(a) Number of nodes in the graph 
+(b) Average (and median) indegree and out degree 
+(c) Average (and median) number of nodes reachable in two hops 
+(d) Number of nodes with indegree > 100 
+
+Data: 'Email-EuAll.txt' that forms a graph G of e-mails between users, with each line being of the form sender receiver.
+
+
