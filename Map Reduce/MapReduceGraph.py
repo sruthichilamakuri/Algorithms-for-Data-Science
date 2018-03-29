@@ -171,9 +171,7 @@ class MapReduce(object):
        
        #Compute the median 
        med = 0
-       med_tuplelist = sorted(output.items(), key=lambda (k,v): v['numnode2hops'])
-       for i in range(10):
-           print med_tuplelist[i]
+       med_tuplelist = sorted(output.items(), key=lambda (k,v): v['numnode2hops'])   
        #Sample content of med_tuplelist ('5983', {'firsthop': [], 'secondhop': [],'numnode2hops':0})
        if self.numnodes%2 == 0:
            med = (med_tuplelist[(self.numnodes/2)-1][1]['numnode2hops'] + med_tuplelist[(self.numnodes/2)][1]['numnode2hops'])/float(2)
